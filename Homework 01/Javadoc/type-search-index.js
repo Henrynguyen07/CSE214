@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Applicant"},{"p":"<Unnamed>","l":"ApplicantNotFoundException"},{"p":"<Unnamed>","l":"FullTableException"},{"p":"<Unnamed>","l":"HiringSystem"},{"p":"<Unnamed>","l":"HiringTable"}]
